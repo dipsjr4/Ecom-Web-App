@@ -34,10 +34,7 @@ p{
 	padding-inline: var(--padding-inline-section);
 }
 
-.flex{
-	display: flex;
-	align-items: center;
-}
+
 .top-banner{
 	background-color: #4fb3d4;
 }
