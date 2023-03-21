@@ -3,19 +3,12 @@
 	padding: 0;
 	font-family: arial;
 	box-sizing : border-box;
-	
+	background-color: #F0F8FF;
 }
-
-
-h1{
-	font-weight: 700;
-}
-
 
 p{
-	font-family: 'roboto', sans-serif
+	
 	font-size: 1.25rem;
-	color: var(--secondary-text-color);
 	line-height: 1.8rem;
 }
 
@@ -25,13 +18,14 @@ p{
  /*utility class*/
 .small-bold-text{
 	font-size: 3rem;
-	font-weight: 700;
+	font-weight: 100%;
+	
 }
 
 .container{
 	max-width: 1180;
 	margin-inline: auto;
-	padding-inline: var(--padding-inline-section);
+	
 }
 
 .flex{
@@ -40,12 +34,15 @@ p{
 }
 .top-banner{
 	background-color: #4fb3d4;
+	font-size: 3rem;
 }
 
 .banner-text{
-	color: white;
-	padding: 20px 30px;
+	color: black;
+	
 	text-align: center;
+	font-size: 50px;
+	font-weight: 600;
 		
 }
 header{
@@ -59,6 +56,67 @@ header{
 }
 
 
+/*Team member section*/
+.team{
+	position: relatives;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	
+}
+
+.team-content{
+	max-width: 100%;
+	margin: 0 auto;
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(150px, auto));
+	gap: 3rem;
+	text-align: center;
+	margin-top:4rem;
+	
+}
+
+/*image section*/
+.team-content img{
+	width: 100%;
+	height: auto;
+	border-radius: 15px;
+	margin-bottom: 15px;
+	
+}
 
 
+.center h1{
+	color: black;
+	font-size: 3rem;
+	text-align: center;
+}
+
+.box h3{
+	font-size: 23px;
+	font-weight: 600;
+	margin-bottom: 8px;
+	
+}
+
+ .box h5{
+	font-size: 15px;
+	font-weight: 500;
+ }
  
+
+ .box:hover{
+	transform: translateY(-10px);
+	 
+ }
+ 
+ /*icons section*/
+ .icons{
+	 display: inline-block;
+	 color: black;
+	 font-size: 20px;
+	 margin-bottom: 18px;
+ }
