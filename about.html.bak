@@ -25,7 +25,9 @@
 		<header>
 			<div class="container header-section flex">
 				<div class="header-left"></div>
-					<h1>Future gadgets</h1> 
+					<img src="C:/Users/ASUS/OneDrive - University of Wolverhampton/sem3/Collabrative development/Ecom-Web-App/logo.png" 
+						alt=" Logo" style="width:300px">
+					<!--<h1>Future gadgets</h1> -->
 					<p>"Discover the Future of Electronics at Future Gadgets!
 						Explore our extensive range of cutting-edge gadgets,
 						from smartphones to drones and everything in between.
@@ -35,8 +37,8 @@
 				
 				
 				<div class="header-right"></div>
-					<img src="C:\Users\ASUS\OneDrive - University of Wolverhampton\sem3\
-					Collabrative development\myself\images\iiii.jfif" alt="my fav">
+					<img src="C:/Users/ASUS/OneDrive - University of Wolverhampton/sem3/Collabrative development/Ecom-Web-App/group.png"
+					alt="group_photo" style="width:300px">
 				
 			</div>
 			
@@ -53,33 +55,33 @@
 				<div class="team-content">
 					<!--CEO section-->
 					<div class="box">
-						<img src="D:/documents/sample.jpg">
+						<img src="D:/D3200/ramay.png" alt="photo" style="width:150px">
 						<h3>Dips Jr</h3>
 						<h5> CEO</h5>
 						
 						<!--button-->
 						<div class="icons">
-							<a href="https://www.facebook.com/iamdips10" target="_blank" rel="noreferrer"><i class="ri-instagram-line"></i></a>
-							<a href="https://www.instagram.com/dips.jr_10/" target="_blank" rel="noreferrer"><i class="ri-facebook-line"></i></a>
+							<a href="https://www.facebook.com/iamdips10" target="_blank" rel="noreferrer"><i class=" ri-instagram-line"></i></a>
+							<a href="https://www.instagram.com/dips.jr_10/" target="_blank" rel="noreferrer"><i class=" ri-facebook-line"></i></a>
 						</div>
 					</div>
 					
 					<!--Manager section-->
 					<div class="box">
-						<img src="D:/documents/sample.jpg">
+						<img src="D:/D3200/ramay.png" alt="photo" style="width:150px">
 						<h3>Jenish Syanden</h3>
 						<h5> Manager</h5>
 						
 						<!--button-->
 						<div class="icons">
-							<a href="https://www.facebook.com/jnislama938" target="_blank" rel="noreferrer"><i class="ri-instagram-line"></i></a>
-							<a href="https://www.instagram.com/jenlaaama24/" target="_blank" rel="noreferrer"><i class="ri-facebook-line"></i></a>
+							<a href="https://www.instagram.com/jenlaaama24/" target="_blank" rel="noreferrer"><i class="ri-instagram-line"></i></a>
+							<a href="https://www.facebook.com/jnislama938" target="_blank" rel="noreferrer"><i class="ri-facebook-line"></i></a>
 						</div>
 					</div>
 					
 					<!--CR section-->
 					<div class="box">
-						<img src="D:/documents/sample.jpg">
+						<img src="D:/D3200/ramay.png" alt="photo" style="width:150px">
 						<h3>Anish </h3>
 						<h5> Customer Representive</h5>
 						
@@ -92,7 +94,7 @@
 					
 					<!--Head of sales section-->
 					<div class="box">
-						<img src="D:/documents/sample.jpg">
+						<img src="D:/D3200/ramay.png" alt="photo" style="width:150px">
 						<h3>Ram Pathak</h3>
 						<h5> Head of sales</h5>
 						
@@ -105,7 +107,7 @@
 					
 					<!--Managing director section-->
 					<div class="box">
-						<img src="D:/documents/sample.jpg">
+						<img src="D:/D3200/ramay.png" alt="photo" style="width:150px">
 						<h3>Sabda Pathak</h3>
 						<h5> Managing director</h5>
 						
@@ -120,7 +122,7 @@
 					
 					<!--Product Owner section-->
 					<div class="box">
-						<img src="D:/documents/sample.jpg">
+						<img src="D:/D3200/ramay.png" alt="photo" style="width:150px">
 						<h3>Dinesh Serchen</h3>
 						<h5>Product Owner</h5>
 						
@@ -133,9 +135,22 @@
 					
 					<!--CTO section-->
 					<div class="box">
-						<img src="D:/documents/sample.jpg">
+						<img src="D:/D3200/ramay.png" alt="photo" style="width:150px">
 						<h3>Pratish Shrestha</h3>
 						<h5> CTO</h5>
+						
+						<!--button-->
+						<div class="icons">
+							<a href="https://www.instagram.com/p_for_pratish/" target="_blank" rel="noreferrer"><i class="ri-instagram-line"></i></a>
+							<a href="https://www.facebook.com/pratis.sth" target="_blank" rel="noreferrer"><i class="ri-facebook-line"></i></a>
+						</div>
+					</div>
+					
+					<!--CTO section-->
+					<div class="box">
+						<img src="D:/D3200/ramay.png" alt="photo" style="width:150px">
+						<h3>Nishant Shahi</h3>
+						<h5> Director </h5>
 						
 						<!--button-->
 						<div class="icons">
@@ -148,7 +163,6 @@
 				</div>
 			</section>
 		</header>
-		
 				
 	</body>
 	

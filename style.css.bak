@@ -12,9 +12,13 @@ p{
 	line-height: 1.8rem;
 }
 
+/*group image section*/
+.header-section img{
+	border-radius: 30%;
+	
+}
  
-	 
- }
+ 
  /*utility class*/
 .small-bold-text{
 	font-size: 3rem;
@@ -33,7 +37,7 @@ p{
 	align-items: center;
 }
 .top-banner{
-	background-color: #4fb3d4;
+	background-color: blue;
 	font-size: 3rem;
 }
 
@@ -69,22 +73,14 @@ header{
 }
 
 .team-content{
-	max-width: 100%;
-	margin: 0 auto;
+	max-width: 90%;
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(150px, auto));
-	gap: 3rem;
 	text-align: center;
-	margin-top:4rem;
+	margin-top: 70px;
+	margin-bottom: 40px;
+	gap: 150px;
 	
-}
-
-/*image section*/
-.team-content img{
-	width: 100%;
-	height: auto;
-	border-radius: 15px;
-	margin-bottom: 15px;
 	
 }
 
@@ -99,14 +95,25 @@ header{
 	font-size: 23px;
 	font-weight: 600;
 	margin-bottom: 8px;
+	margin-top: 7px;
 	
 }
 
  .box h5{
-	font-size: 15px;
+	font-size: 20px;
 	font-weight: 500;
+	padding: 2px;
+	margin-top: 2px;
+	
  }
  
+ /*members image section*/
+.box img{
+	border-radius: 50%;
+	margin-top: 6px;
+	
+}
+
 
  .box:hover{
 	transform: translateY(-10px);
@@ -118,5 +125,22 @@ header{
 	 display: inline-block;
 	 color: black;
 	 font-size: 20px;
+	 padding: 3px;
 	 
  }
+ 
+ 
+
+  /*logo section*/ 
+.ri-instagram-line{
+	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	
+}
+
+.ri-facebook-line{
+  background: #3B5998;
+  color: white;
+}
+  
